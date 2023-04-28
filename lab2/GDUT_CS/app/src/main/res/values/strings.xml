@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">广东工业大学计算机学院简介</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_history">光荣历程</string>
+    <string name="nav_teacher">师资力量</string>
+    <string name="nav_student">莘莘学子</string>
+    <string name="nav_activity">学院活动</string>
+</resources>

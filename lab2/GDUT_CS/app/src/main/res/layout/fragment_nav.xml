@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f7f8f9"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tv_nav_history"
+        style="@style/tvNavStyle"
+        android:text="@string/nav_history" />
+
+    <TextView
+        android:id="@+id/tv_nav_teacher"
+        style="@style/tvNavStyle"
+        android:text="@string/nav_teacher" />
+
+    <TextView
+        android:id="@+id/tv_nav_student"
+        style="@style/tvNavStyle"
+        android:text="@string/nav_student" />
+
+    <TextView
+        android:id="@+id/tv_nav_activity"
+        style="@style/tvNavStyle"
+        android:text="@string/nav_activity" />
+</LinearLayout>
