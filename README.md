@@ -147,7 +147,7 @@ project-itcast-order/Order/app/src/main/java/cn/itcast/order/activity/ShopActivi
 
 参考第三章《购物商城》，在界面显示8个商品图像与价格提交内容。
 
-![image-20230428221459151](README.assets/shopmall.png)
+![shopmall](README.assets/shopmall.png)
 
 **实验c ActivityLifeCycle**
 
@@ -159,7 +159,7 @@ Activity生命周期：在Activity中重载下图中9种事件函数，在调用
 
 Activity生命周期案例：参考第四章《猴子摘桃》，进行相应改编，比如更换背景图片，按钮图片等。体验Activity的创建、Activity的生命周期、数据传递。LogCat观察并用截图表示。
 
-![image-20230428221900468](README.assets/pickpeach.png)
+![pickpeach](README.assets/pickpeach.png)
 
 ---
 
